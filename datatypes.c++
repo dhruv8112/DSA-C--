@@ -8,5 +8,5 @@ int main() {
     a = 12;
     cout << "Size of the int " << endl << sizeof(a);
 
-    return 0;
+    return 0
 }
