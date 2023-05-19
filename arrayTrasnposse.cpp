@@ -17,7 +17,7 @@ int main()
         }
         cout << endl;
     }
-
+    cout<<"Array transposed"<<endl;
     int b[c][r]; // Transposed array
 
     for (int i = 0; i < c; i++)
